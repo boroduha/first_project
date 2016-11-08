@@ -1,0 +1,164 @@
+/*header and menu*/
+.header{
+    font-family: Verdana, Arial;
+
+}
+.menu{
+    float: left;
+    width: 600px;
+    clear:both;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+#site
+{
+    width: 100%;
+}
+#container
+{
+    width: 600px;
+    height: 600px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    margin-top: -8px;
+    margin-left: 370px;
+}
+
+.logo
+{
+    margin: 7px 90px 0 8px;
+    float: left;
+}
+
+.main-logo
+{
+    margin-top: -15px;
+}
+
+a.url-nav{
+    font-family: Verdana;
+    color: #08719C;
+    font-size: small;
+}
+a.url-nav:hover{
+    font-family: Verdana;
+    color: red;
+    font-size: small;
+}
+a.urlc
+{
+    font-family: Arial;
+    color: red;
+    font-weight:bold;
+    font-size: large;
+}
+
+a.urlb
+{
+    color: #08719C;
+    margin-left: -4px;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: large;
+}
+
+a.urlb:hover
+{
+    color: red;
+    margin-left: -4px;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: large;
+}
+.spisok{
+    display: block;
+    float: left;
+    padding: 2px;
+}
+
+.logo-nav{
+    margin: 0;
+}
+#navigation
+{
+    float: right;
+    width: 446px;
+}
+/*content*/
+.design{
+    width: 580px;
+    box-sizing: content-box;
+    display: block;
+    background-color: #E4F5FA;
+    height: 72px;
+    margin-left: 11px;
+    margin-top: -10px;
+}
+.list-number{
+    text-align: center;
+    width: 20%;
+    font-family: Tahoma;
+    font-size: medium;
+    margin-top: 26px;
+}
+.list-content{
+    width: 60%;
+}
+.list-lust{
+    width: 100px;
+    height: auto;
+    font-family: verdana, arial, helvetica;
+    FONT-SIZE: 10pt;
+    margin-top: 27px;
+}
+.list{
+    display: block;
+    float: left;
+}
+.table{
+    height: 78px;
+    width: 345px;
+    margin-left: -30px;
+}
+.meja{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.red{
+    color:red;
+}
+.font-link{
+    font-family: Arial;
+    font-size: medium;
+    font-weight: bold;
+    color: #08719C;
+}
+a.font-link:hover{
+    font-family: Arial;
+    font-size: medium;
+    font-weight: bold;
+    color: red;
+}
+.test
+{
+    margin-left: -70px;
+}
+.font-content
+{
+    font-family: Verdana;
+    FONT-SIZE: 10pt;
+}
+.design_v
+{
+    width: 580px;
+    box-sizing: content-box;
+    display: block;
+    background-color: #E4F5FA;
+    height: 85px;
+    margin-left: 11px;
+    margin-top: -10px;
+}
+.test_v
+{
+    margin-top: 8px;
+}
