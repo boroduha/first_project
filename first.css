@@ -45,7 +45,7 @@ a.url-nav:hover{
     color: red;
     font-size: small;
 }
-a.urlc
+a.url-logo-a
 {
     font-family: Arial;
     color: red;
@@ -53,7 +53,7 @@ a.urlc
     font-size: large;
 }
 
-a.urlb
+a.url-logo-b
 {
     color: #08719C;
     margin-left: -4px;
@@ -62,7 +62,7 @@ a.urlb
     font-size: large;
 }
 
-a.urlb:hover
+a.url-logo-b:hover
 {
     color: red;
     margin-left: -4px;
@@ -70,7 +70,7 @@ a.urlb:hover
     font-family: Arial;
     font-size: large;
 }
-.spisok{
+.list-nav{
     display: block;
     float: left;
     padding: 2px;
@@ -79,11 +79,7 @@ a.urlb:hover
 .logo-nav{
     margin: 0;
 }
-#navigation
-{
-    float: right;
-    width: 446px;
-}
+
 /*content*/
 .design{
     width: 580px;
@@ -120,7 +116,7 @@ a.urlb:hover
     width: 345px;
     margin-left: -30px;
 }
-.meja{
+.border{
     margin-left: 10px;
     margin-right: 10px;
 }
@@ -139,7 +135,7 @@ a.font-link:hover{
     font-weight: bold;
     color: red;
 }
-.test
+.number
 {
     margin-left: -70px;
 }
@@ -148,17 +144,11 @@ a.font-link:hover{
     font-family: Verdana;
     FONT-SIZE: 10pt;
 }
-.design_v
+.design-5
 {
-    width: 580px;
-    box-sizing: content-box;
-    display: block;
-    background-color: #E4F5FA;
     height: 85px;
-    margin-left: 11px;
-    margin-top: -10px;
 }
-.test_v
+.lust-number
 {
-    margin-top: 8px;
+    margin-left: -6px;
 }
